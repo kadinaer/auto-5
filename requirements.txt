@@ -1,2 +1,3 @@
 DrissionPage>=4.1.0
-pyinstaller 
+pyinstaller
+pyautogui>=0.9.50 
